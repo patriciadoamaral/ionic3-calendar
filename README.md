@@ -1,3 +1,3 @@
 **Exemplo do plugin Calendar**
 
-<img src="src/assets/imgs/print1.png" alt="Print1"/>
+[Print1](https://github.com/patriciadoamaral/ionic3-calendar/blob/master/src/assets/imgs/print1.png)
